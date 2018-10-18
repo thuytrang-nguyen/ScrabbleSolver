@@ -6,6 +6,7 @@ Compile:javac -cp .:algs4.jar *.java
 Run: java -cp .:algs4.jar ScrabbleSolver <letter_scramble> <OPTIONAL: letter to include - has to be in the letter_scramble>
 
 Running Example: java -cp .:algs4.jar ScrabbleSolver egersdk r
+
 This will display a best solution including "r" from the world scramble: "reeks" with score of 9.
 
 
